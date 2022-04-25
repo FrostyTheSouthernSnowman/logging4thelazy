@@ -80,7 +80,7 @@ or on Windows
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To start using logs4thelazy, you must first have it [installed](##installation). After you install logs4thelazy, you must import it
+To start using logs4thelazy, you must first have it [installed](#getting-started). After you install logs4thelazy, you must import it
 
 ```
 import l4l
