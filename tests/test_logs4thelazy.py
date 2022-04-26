@@ -1,6 +1,6 @@
 import pytest
 
-from logs4thelazy import BaseLogFormat, BaseLogger, from_value
+from l4l import BaseLogFormat, BaseLogger, from_value
 
 
 def test_base_log_format():
