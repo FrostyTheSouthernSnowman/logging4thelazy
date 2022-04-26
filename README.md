@@ -40,7 +40,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## Overview
-
+![](screenshot.png)
 Logs4theLazy allows you easily add detailed, descriptive, and well-structured logs to your project.
 
 Logs4theLazy allows you to
