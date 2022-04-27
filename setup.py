@@ -16,7 +16,7 @@ setup(
     author="Yosi Frost",
     author_email="yosi_frost@icloud.com",
     url="https://github.com/FrostyTheSouthernSnowman/logging4thelazy",
-    download_url="https://github.com/FrostyTheSouthernSnowman/logging4thelazy/archive/v_0.0.1.tar.gz",  # I explain this later on
+    download_url="https://github.com/FrostyTheSouthernSnowman/logging4thelazy/archive/v_0.0.2.tar.gz",  # I explain this later on
     keywords=["logging", "python3", "simple"],
     install_requires=[],
     classifiers=[
