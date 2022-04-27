@@ -5,10 +5,12 @@ HERE = pathlib.Path(__file__).parent
 
 README = (HERE / "README.md").read_text()
 
+VERSION = "0.0.2"
+
 setup(
     name="logs4thelazy",
     packages=["l4l"],
-    version="0.0.2",
+    version=VERSION,
     license="MIT",
     description="A simple and easy to use library for logging in python",
     long_description=README,
