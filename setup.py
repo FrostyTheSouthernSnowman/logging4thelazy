@@ -8,7 +8,7 @@ README = (HERE / "README.md").read_text()
 setup(
     name="logs4thelazy",
     packages=["l4l"],
-    version="0.0.1",
+    version="0.0.2",
     license="MIT",
     description="A simple and easy to use library for logging in python",
     long_description=README,
