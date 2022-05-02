@@ -21,7 +21,7 @@ class FileLogger(BaseLogger):
         if type(name) != str:
             raise TypeError(f"name should be string, but got {type(name)}")
 
-        self.file = open(path, "a+")
+        self.file = open(path, "w+")
         print(f"{name}: all logs logged by logger, {name}", file=self.file)
 
         self.name = name
